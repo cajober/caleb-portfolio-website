@@ -68,7 +68,7 @@ export const profile = {
   "Along the way, I've built full-stack projects with Vue, Next.js, and Django in a team, tested web apps with Cypress and Selenium as a software engineer intern at Pixel8, and most recently worked with AWS, Docker, and Linux as a site reliability engineer intern at OpsWerks.",
   "Beyond software, I spent two years as the technical head of our campus radio station, where I honed my speaking abilities and managed the technical operations that kept the station on air. It taught me how to keep systems running reliably, which carries over directly to the work I do today.",
   ],
-  resume: '/DEVELOPER RESUME.pdf',
+  resume: '/BERANDOY_CALEB-RESUME.pdf',
   heroImage: '/assets/caleb-profile.svg',
   aboutImage: '/assets/aboutme.svg',
   email: 'calebjosh.berandoy@gmail.com',
