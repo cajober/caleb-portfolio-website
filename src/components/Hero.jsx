@@ -1,7 +1,5 @@
 import { profile } from '../data/portfolio'
-import Section from './Section'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
-import { FiMapPin, FiBook, FiCode, FiBriefcase, FiDownload, FiArrowRight } from 'react-icons/fi'
+import { FiArrowRight } from 'react-icons/fi'
 
 
 export default function Hero() {
@@ -18,7 +16,8 @@ export default function Hero() {
         <div className="flex flex-wrap gap-4">
           <a
             href={profile.resume}
-            download="Caleb-Berandoy-Resume.pdf"
+            target="_blank"
+            rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-xl bg-accent px-5 py-2 font-medium text-accent-fg transition hover:opacity-90"
           >
             View Resume

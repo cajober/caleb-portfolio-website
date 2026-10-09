@@ -66,7 +66,7 @@ export const profile = {
   aboutParagraphs: [
   "I'm a Computer Science graduate from the University of the Philippines Cebu, based in Cebu City. I love designing as much as I love coding, and I enjoy building web apps end to end: the interface people use, the API behind it, and the infrastructure it runs on.",
   "Along the way, I've built full-stack projects with Vue, Next.js, and Django in a team, tested web apps with Cypress and Selenium as a software engineer intern at Pixel8, and most recently worked with AWS, Docker, and Linux as a site reliability engineer intern at OpsWerks.",
-  "Beyond software, I spent two years as the technical head of our campus radio station, where I honed my speaking abilities managed the technical operations that kept the station on air. It taught me how to keep systems running reliably, which carries over directly to the work I do today.",
+  "Beyond software, I spent two years as the technical head of our campus radio station, where I honed my speaking abilities and managed the technical operations that kept the station on air. It taught me how to keep systems running reliably, which carries over directly to the work I do today.",
   ],
   resume: '/DEVELOPER RESUME.pdf',
   heroImage: '/assets/caleb-profile.svg',
@@ -135,7 +135,6 @@ export const education = [
   {
     period: '2016 - 2022',
     school: 'Science and Technology Education Center',
-    // detail: 'Lapu-Lapu City',
   },
   {
     period: '2022 - 2026',
